@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	height: 600px;
+	
+	align-items: center;
+	font-family: sans-serif;
+	background-image: url("daun.jpg");
+	background-size: 1600px
+}
+.form{
+	font-size: 30px;
+	font-family: 'Hachi Maru Pop', cursive;
+}

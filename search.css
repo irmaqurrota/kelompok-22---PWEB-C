@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+  }
+  * {
+    color: inherit;
+    text-decoration: none;
+  }
+  .isi {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .isi:after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+  header h1 {
+    float: left;
+    padding: 15px 0;
+    color: white;
+  }
+  header ul {
+    float: right;
+  }
+  header ul li {
+    display: inline-block;
+  }
+  header ul li a {
+    padding: 25px 20px;
+    display: inline-block;
+  }
+  header ul li a:hover {
+    background-color: green;
+}
+.search {
+  height: 60vh;
+  border: 0px solid;
+  padding-top: 30px;
+  background-image: url("bg\ baru\ dftr\ menu.jpeg");
+  background-size: cover;
+  position: relative;
+  padding: 95px;
+  display: block;
+  justify-content: center;
+  
+}
+.search h1 {
+  color: black;
+  padding: 20px;
+  margin-top: 200px;
+  margin-left: 45%;
+  position: relative;
+  text-align: center;
+  border: solid;
+  width: fit-content;
+  font-family: 'Hachi Maru Pop', cursive;
+}
